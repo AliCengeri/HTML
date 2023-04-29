@@ -1,0 +1,26 @@
+body {
+    list-style-position: inside;
+    text-align: center; 
+}
+
+ul {
+    font-size: 20px;
+    color: aqua;
+}
+
+.text-red{
+    color: red;
+}
+
+p{
+    font-size: 24px;
+    color: brown;
+}
+
+h1{
+    font-style:italic ;
+}
+
+.background-grey{
+    background-color: grey;
+}
